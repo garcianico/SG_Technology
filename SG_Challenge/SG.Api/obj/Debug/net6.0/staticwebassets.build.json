@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LN0kZbBMmpkxzp8cHXl5Y39+I6jOZeqhNVj3t9UC2uo=",
+  "Source": "SG.Api",
+  "BasePath": "_content/SG.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

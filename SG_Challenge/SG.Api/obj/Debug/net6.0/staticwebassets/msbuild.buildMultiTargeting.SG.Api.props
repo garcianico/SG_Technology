@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SG.Api.props" />
+</Project>
